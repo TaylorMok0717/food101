@@ -32,6 +32,6 @@ cd deep-learning-model
 jupyter notebook Part2_24586683_kai_to_mok.ipynb
 ````
 ## Customization
-- **Modify parameters such as TrainSampleNo, SampleNo, and batch directly in the notebook.
-- **Adjust data transformations in the torchvision.transforms section to suit your dataset.
+- Modify parameters such as TrainSampleNo, SampleNo, and batch directly in the notebook.
+- Adjust data transformations in the torchvision.transforms section to suit your dataset.
 
